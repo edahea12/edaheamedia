@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#footer {
+	background: #343637;
+	position: relative;
+	height: 130px;
+	margin-top: 30px;
+	clear: both;
+	color: #D8D6CB;
+	padding: 20px;
+	font-size: 18px;
+}
+
+#footer button {
+	margin: 12px;
+}
+
