@@ -6,11 +6,12 @@
 #footer {
 	background: #343637;
 	position: relative;
-	height: 130px;
+	height: 170px;
 	margin-top: 30px;
 	clear: both;
 	color: #D8D6CB;
-	padding: 20px;
+	padding-top: 30px;
+	padding-bottom: 20px;
 	font-size: 18px;
 }
 
