@@ -19,7 +19,7 @@
 	margin: 12px;
 }
 
-@media all and (max-width: 670px) {
+@media all and (max-width: 300px) {
   nav {
     width: 100%;
   }
