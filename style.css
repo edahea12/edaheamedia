@@ -19,3 +19,8 @@
 	margin: 12px;
 }
 
+@media all and (max-width: 670px) {
+  nav {
+    width: 100%;
+  }
+}
