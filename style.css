@@ -15,8 +15,8 @@
 	font-size: 18px;
 }
 
-#footer button {
-	margin: 12px;
+#footer a {
+	margin-top: 12px;
 }
 
 @media all and (max-width: 300px) {
